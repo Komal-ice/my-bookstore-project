@@ -1,0 +1,14 @@
+[
+  {
+    "isbn": "978-3-16-148410-0",
+    "title": "Book 1",
+    "author": "Author 1",
+    "reviews": []
+  },
+  {
+    "isbn": "978-3-16-148410-1",
+    "title": "Book 2",
+    "author": "Author 2",
+    "reviews": []
+  }
+]
